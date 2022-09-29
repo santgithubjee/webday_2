@@ -1,0 +1,31 @@
+/*h3{
+    background-color: brown;
+    color: chartreuse;
+}
+p2
+{
+ background-color: red;
+ color: aliceblue;
+}
+p3
+{
+    color: rgb(255, 0, 13);
+    background-color: cornflowerblue;
+    font-family: courier;
+    font-size: 18px;
+    border: 2px solid green;
+    padding: 1px; /*padding is used to give the space between textand border */
+    /*define space outside the border 
+
+*/
+th,td{
+    border: 2px solid rgb(70, 165, 217); 
+    border-collapse: collapse;
+    padding: 12px;
+}
+th{
+    text-align: left;
+}
+table{
+    border-spacing: 5px;
+}
